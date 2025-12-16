@@ -20,7 +20,7 @@ export function PortfolioShowcase() {
       title: 'Agricultural Marketplace & Forum',
       description: 'Web-based marketplace using Laravel enabling farmers to sell products with online transaction via Midtrans escrow system, forum feature, and authentication.',
       image: ladangquImg,
-      demoLink: 'http://103.235.75.33/',
+      demoLink: 'http://jopel.my.id/',
       githubLink: 'https://github.com/JopelSimarmata/Website_Pertanian'
     },
     {
